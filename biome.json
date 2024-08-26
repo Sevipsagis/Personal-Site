@@ -5,7 +5,8 @@
 	},
 	"linter": {
 		"enabled": true,
-		"rules": { "recommended": true }
+		"rules": { "recommended": true },
+		"ignore": ["*.gen.ts"]
 	},
 	"formatter": {
 		"enabled": true,
